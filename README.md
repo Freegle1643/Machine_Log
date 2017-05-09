@@ -66,3 +66,4 @@ Software:
 -Sublime Text
 -Sogou Pinyin
 -Git
+-CLion
